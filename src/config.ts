@@ -43,8 +43,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: '( •̀ ω •́ )✧',
-      url: 'https://open.spotify.com/album/0aWcnOSntyOxzNCxBksLW6',     // Internal links should not include the base path, as it is automatically added
+      name: 'CTF Handbook',
+      url: 'https://ctf101.org/',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
