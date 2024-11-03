@@ -1,9 +1,22 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
 
-::github{repo="saicaca/fuwari"}
+Hello World , I'm The Anh [a.k.a vizer]
+<br>I am currently a student at [Duy Tan University](https://duytan.edu.vn) majoring in Cybersecurity.
+<br>CTF player for ISITDTU/WWF/WWU.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+**ɪ ᴀᴍ ʜᴇʀᴇ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ -- ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ.**
+
+### Feel free to reach out to me via
+>
+> - Email: <code>viz3r@proton.me</code>
+> - Discord: <code>vjz3r</code>
+
+<style>
+.color1 { color: #d5bb70; }
+</style>
+
+<p>
+  <span class="color1">chillin' ( •̀ ω •́ )✧</span>
+</p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4OzrY981I1W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
