@@ -9,7 +9,7 @@ Hello World , I'm The Anh [a.k.a vizer]
 ### Feel free to reach out to me via
 >
 > - Email: <code>viz3r@proton.me</code>
-> - Discord: <code>vjz3r</code>
+> - Discord: <code>[vjz3r](https://discordapp.com/users/664709811547537408)</code>
 
 <style>
 .color1 { color: #d5bb70; }
