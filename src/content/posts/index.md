@@ -1,10 +1,10 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
-image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+title: ISITDTU CTF 2024 [OSINT]
+published: 2024-11-04
+description: "Full OSINT challenges from ISITDTU CTF 2024"
+image: ""
+tags: ["OSINT"]
+category: CTF Writeups
 draft: true
 ---
 
@@ -19,7 +19,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 title: My First Blog Post
 published: 2023-09-09
 description: This is the first post of my new Astro blog.
-image: ./cover.jpg
+image:
 tags: [Foo, Bar]
 category: Front-end
 draft: false
