@@ -48,7 +48,10 @@ The intended solution for this challenge is to use this website:
 <https://www.aircraftrecognitionguide.com/identify-aircraft/identify-by-airplane-characteristics>
 
 From the details in the post, use the filter to narrow it down to two civilian-use airplanes (click on the image to see the full filter)
-[![preview_img](./img/preview_aircraftrecognitionguide-identify-aircraft-identify-by-airplane-characteristics.png)](aircraftrecognitionguide-identify-aircraft-identify-by-airplane-characteristics.png)
+<a href="./img/aircraftrecognitionguide-identify-aircraft-identify-by-airplane-characteristics.png" data-lightbox="image">
+    <img src="./img/preview_aircraftrecognitionguide-identify-aircraft-identify-by-airplane-characteristics.png" alt="Preview" style="max-width: 100%; height: auto;"/>
+</a>
+
 So how do we figure out which one is correct? He mentioned that the plane he piloted is about 10 meters long. Try looking up the lengths of these two planes:
 ![plane_length](./img/aircraft_length.png)
 
