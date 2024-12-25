@@ -5,7 +5,7 @@ description: "Writeup của mình cho thử thách osint dáng xinh của CyberJ
 image: "./img/logo.png"
 tags: ["OSINT"]
 category: CTF Writeups
-draft: true
+draft: false
 ---
 
 # Challenge Description
